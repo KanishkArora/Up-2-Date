@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings"/>
+
+    <item
+        android:id="@+id/feedback"
+        android:iconTintMode="src_over"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="@string/rate_us"/>
+
+    <item android:title="@string/share"
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"/>
+
+    <item android:title="@string/dark_mode"
+        android:id="@+id/theme"
+        android:icon="@drawable/ic_baseline_nights_stay_24"
+        android:actionLayout="@layout/theme_switch"/>
+
+</menu>

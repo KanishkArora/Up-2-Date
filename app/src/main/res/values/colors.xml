@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightPink">#ffdacc</color>
+    <color name="Rosee">#fcb599</color>
+    <color name="hashBrown">#e2914f</color>
+    <color name="nordic_light">#4C566A</color>
+    <color name="nordic_darc">#3B4252</color>
+    <color name="snow_1">#859DC3</color>
+    <color name="snow_2">#B4CAED</color>
+    <color name="snow_3">#CEE2FD</color>
+    <color name="snow_modified">#F3ECF4</color>
+    <color name="light_bg">#333333</color>
+    <color name="light_tool">#880000</color>
+    <color name="light_nav">#818080</color>
+    <color name="light_card">#dedede</color>
+    <color name="rosyBrown">#E9D2D2</color>
+    <color name="fadedBrown">#3E3835</color>
+    <color name="light_brown">#C4A484</color>
+    <color name="mocha">#967969</color>
+    <color name="snow">#f2f2f2</color>
+    <color name="mattBlack">#171717</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="filthyWhite">#D7DEE1</color>
+    <color name="pink">#ff80bf</color>
+</resources>
